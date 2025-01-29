@@ -1,5 +1,7 @@
+import Header from "./components/Header";
+
 function App() {
-  return <h3> main page </h3>;
+  return <Header>ddfd</Header>;
 }
 
 export default App;
